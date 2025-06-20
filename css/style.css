@@ -13,7 +13,7 @@
 :root {
     --bg-color: #1f242d;
     --second-bg-color: #323946;
-    --main-color: #7e1a7e;
+    --main-color: #751981;
     --white-color: #fff;
     --disabled-color: #fff3;
 }
@@ -24,6 +24,7 @@ html {
 
 body {
     color: var(--white-color);
+    background-color: var(--bg-color);
 }
 
 header {
